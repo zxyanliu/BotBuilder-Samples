@@ -9,6 +9,7 @@ using Microsoft.BotBuilderSamples.Bots;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+// test change
 namespace Microsoft.BotBuilderSamples
 {
     public class Startup
